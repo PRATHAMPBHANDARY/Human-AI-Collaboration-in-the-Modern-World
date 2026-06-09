@@ -9,7 +9,7 @@ Artificial Intelligence (AI) has become an integral part of modern life, transfo
 This study examines the adoption of AI among students and working professionals, identifies its benefits and challenges, and evaluates trust, dependency, and future expectations regarding AI technologies.
 
 
-![Alt Text]([URL_or_Path](https://github.com/PRATHAMPBHANDARY/Human-AI-Collaboration-in-the-Modern-World/blob/b430a0d646043a80237308729bd657acc0295caa/human%20ai%20logo.png))
+![Alt Text](https://github.com/PRATHAMPBHANDARY/Human-AI-Collaboration-in-the-Modern-World/blob/23b2f583b8382a6477ca5643e1ee0a7c765c75c9/human%20ai%20logo.png)
 
 
 
